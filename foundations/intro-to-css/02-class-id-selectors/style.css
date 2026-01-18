@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.pinkback{
+    font-family: Verdana, Dejavu, sans-serif;
+    background-color: #D98f8f;
+}
+#texts{
+    color:rgb(20, 34, 240);
+    font-size:36px;
+}
+.pinkback.sizes{
+    font-size:24px
+}
+#greenback{
+    background-color:hsl(102, 64%, 60%);
+    font-size:24px;
+    font-weight:bold;
+}
